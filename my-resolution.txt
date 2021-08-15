@@ -5,3 +5,8 @@ Planning 2021 :
 - CSS
 - JavaScript
 - PHP
+
+Planning 2022 :
+- Kotlin
+- Java
+- Python
