@@ -9,4 +9,4 @@ Planning 2021 :
 Planning 2022 :
 - Kotlin
 - Java
-- Python
+- Laravel
